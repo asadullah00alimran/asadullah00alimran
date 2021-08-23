@@ -19,7 +19,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <p align="center">
 <a href="https://https://sites.google.com/diu.edu.bd/asadullah-al-imran/home/"><img alt="Website" src="https://img.shields.io/badge/Website-www.asadullahalimran.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/asadullah-al-imran00/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-asadullah-al-imran00-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/asadullah-al-imran00/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Asadullah%20Al%20Imran-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/imranaai/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aaiimran-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:al.asadullah.imran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-al.asadullah.imran-blue?style=flat-square&logo=gmail"></a>
 </p>
