@@ -26,3 +26,6 @@ I'm a computer science student. I am very passionate about writing code, solving
 
 ⭐️ From [koushiknagshuvo](https://github.com/koushiknagshuvo)
 Inspired from [JRakin](https://github.com/JRakin)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asadullah00alimran) 
+
