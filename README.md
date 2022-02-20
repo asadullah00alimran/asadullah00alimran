@@ -12,7 +12,7 @@ I'm a computer science student. I am very passionate about writing code, solving
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | C++ | Java
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap | Node.js 
 - 🛢 &nbsp; MySQL|MongoDB
 - 🔧 &nbsp; Git | Adobe Photoshop | Adobe Illustrator | Adobe XD
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
