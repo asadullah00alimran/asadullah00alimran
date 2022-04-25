@@ -24,8 +24,6 @@ I'm a computer science student. I am very passionate about writing code, solving
 <a href="mailto:al.asadullah.imran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-al.asadullah.imran-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [koushiknagshuvo](https://github.com/koushiknagshuvo)
-Inspired from [JRakin](https://github.com/JRakin)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asadullah00alimran) 
 
