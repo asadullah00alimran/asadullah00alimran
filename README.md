@@ -5,15 +5,15 @@
 I'm a computer science student. I am very passionate about writing code, solving problems and building software.
 
 - 🔭 I’m currently a CS student at Daffodil International Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 📚 I’m currently learning  backend web development using PHP, Laravel and MySQL.
 - 📚 I’m also learning Artificial Intelligence, Data Mining and Machine Learning.
 - 👯 I’m looking for a software development internship. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | Python | C | C++ | Java
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap | Node.js 
-- 🛢 &nbsp; MySQL|MongoDB
+- 💻 &nbsp; C | PHP | C# | C++ | Python | JavaScript
+- 🌐 &nbsp; HTML | CSS | Laravel | Bootstrap | jQuery | AJAX
+- 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git | Adobe Photoshop | Adobe Illustrator | Adobe XD
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
