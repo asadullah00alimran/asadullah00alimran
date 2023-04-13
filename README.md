@@ -25,5 +25,5 @@ I'm a computer science student. I am very passionate about writing code, solving
 </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asadullah00alimran) 
+<img src="https://camo.githubusercontent.com/81e33e7337b1c60f890a641b80e1fe830b5d85c2930fc9c1dbc98061b7f93d7f/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d6b6f757368696b6e6167736875766f2662675f636f6c6f723d31413142323626636f6c6f723d364441304634266c696e653d36444130463426706f696e743d41384431423626617265613d7472756526686964655f626f726465723d74727565" alt="Asadullah Al Imran's github activity graph" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=asadullah00alimran&amp;bg_color=1A1B26&amp;color=6DA0F4&amp;line=6DA0F4&amp;point=A8D1B6&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
 
