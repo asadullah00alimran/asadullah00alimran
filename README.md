@@ -2,11 +2,11 @@
 <h1>Asadullah Al Imran 👋</h1> 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a computer science student. I am very passionate about writing code, solving problems and building software.
+I'm a Full Stack Developer. I am very passionate about writing code, solving problems and building software.
 
-- 🔭 I’m currently a CS student at Daffodil International Unversity.
-- 📚 I’m currently learning  backend web development using PHP, Laravel and MySQL.
-- 📚 I’m also learning Artificial Intelligence, Data Mining and Machine Learning.
+- 🔭 I’m currently working in a reputed software company named <a href="https://techsolutionsbd.com/">Techsolutions</a>.
+- 📚 I’m currently learning Mobile Application Development(Flutter).
+- 📚 I’m also learning Artificial Intelligence.
 - 👯 I’m looking for a software development internship. 
 
 <h3>🛠 Tech Stack</h3>
@@ -24,6 +24,4 @@ I'm a computer science student. I am very passionate about writing code, solving
 <a href="mailto:al.asadullah.imran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-al.asadullah.imran-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-
-<img src="https://camo.githubusercontent.com/" alt="Asadullah Al Imran's github activity graph" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=asadullah00alimran&amp;bg_color=1A1B26&amp;color=6DA0F4&amp;line=6DA0F4&amp;point=A8D1B6&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
 
