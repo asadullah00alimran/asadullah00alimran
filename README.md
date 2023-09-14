@@ -7,7 +7,7 @@ I'm a Full Stack Developer. I am very passionate about writing code, solving pro
 - 🔭 I’m currently working in a reputed software company named <a href="https://techsolutionsbd.com/">Techsolutions</a>.
 - 📚 I’m currently learning Mobile Application Development(Flutter).
 - 📚 I’m also learning Artificial Intelligence.
-- 👯 I’m looking for a software development internship. 
+
 
 <h3>🛠 Tech Stack</h3>
 
