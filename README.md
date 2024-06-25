@@ -5,14 +5,14 @@
 I'm a Full Stack Developer. I am very passionate about writing code, solving problems and building software.
 
 - 🔭 I’m currently working in a reputed software company named <a href="https://techsolutionsbd.com/">Techsolutions</a>.
-- 📚 I’m currently learning Mobile Application Development(Flutter).
-- 📚 I’m also learning Artificial Intelligence.
+- 📚 I’m currently learning React and Next Js.
+- 📚 I’m also intrested to learn Data Science & Artificial Intelligence.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | PHP | C# | C++ | Python | JavaScript
-- 🌐 &nbsp; HTML | CSS | Laravel | Bootstrap | jQuery | AJAX
+- 💻 &nbsp; C | PHP | C++ | Python | JavaScript
+- 🌐 &nbsp; HTML | CSS | Laravel | Bootstrap | jQuery | AJAX | React
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git | Adobe Photoshop | Adobe Illustrator | Adobe XD
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
