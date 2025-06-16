@@ -4,7 +4,7 @@
 
 I'm a Full Stack Developer. I am very passionate about writing code, solving problems and building software.
 
-- 🔭 I’m currently working at <a href="https://jolshiri.army.mil.bd"></a> as a Programmer.
+- 🔭 I’m currently working at <a href="https://jolshiri.army.mil.bd">Jolshiri Abashon</a> as a Assistant Programmer.
 - 📚 I’m currently learning React and Next Js.
 - 📚 I’m also intrested to learn Data Science & Artificial Intelligence.
 
