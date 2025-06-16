@@ -12,9 +12,9 @@ I'm a Full Stack Developer. I am very passionate about writing code, solving pro
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | PHP | C++ | Python | JavaScript
-- 🌐 &nbsp; HTML | CSS | Laravel | Bootstrap | jQuery | AJAX | React
+- 🌐 &nbsp; HTML | CSS | Laravel | Bootstrap | jQuery | AJAX | React | Tailwind CSS
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Git | Adobe Photoshop | Adobe Illustrator | Adobe XD
+- 🔧 &nbsp; cPanel | WHM | Git | Adobe Photoshop | Adobe Illustrator | Adobe XD
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
