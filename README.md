@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="flex: 1;>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadullah00alimran&show_icons=true&theme=radical&hide_border=true)
 
