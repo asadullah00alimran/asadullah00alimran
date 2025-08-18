@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadullah00alimranE&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadullah00alimran&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullah00alimran&layout=compact&theme=radical&hide_border=true)
 
