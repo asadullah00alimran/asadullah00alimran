@@ -58,11 +58,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asadullah00alimran&show_icons=true&theme=radical&hide_border=true" width="32%" />
-  <img src="https://streak-stats.demolab.com?user=asadullah00alimran&theme=radical&hide_border=true" width="32%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullah00alimran&layout=compact&theme=radical&hide_border=true" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=asadullah00alimran&theme=radical&hide_border=true" width="32%" />
 </div>
 
 
