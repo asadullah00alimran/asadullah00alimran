@@ -84,7 +84,7 @@ With a curiosity for learning and improving, I constantly explore new frameworks
 
 ### 📈 Current Focus
 
-- 🔭 Currently improving skills in **Modern PHP frameworks** and **React ecosystem**  
+- 🔭 Currently improving skills in **Datascience and Machine Learning using Python**
 - 🌱 Learning **TypeScript** and **Serverless Architectures**  
 - 👯 Open to collaborate on **Open Source Projects** and **Innovative Web Apps**  
 - 💬 Ask me about **PHP**, **React**, **Next.js**, and **Full-Stack Architecture**  
