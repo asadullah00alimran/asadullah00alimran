@@ -1,116 +1,63 @@
-# Hi there, I'm Asadullah Al Imran 👋
+<div align="center">
+  <h1>Hi there, I'm Asadullah Al Imran 👋</h1>
+  <h3>Full Stack Developer | PHP & Laravel Specialist</h3>
 
-## 🚀 Full-Stack Developer | PHP Specialist | React Enthusiast
+  <p>
+    <a href="https://asadimran.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/asadullah-al-imran00/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:al.asadullah.imran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=asadullah00alimran&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </p>
+</div>
 
-Hello! I'm **Asadullah Al Imran**, a passionate **Full-Stack Developer** with a love for crafting robust, scalable, and efficient web applications.  
+---
 
-I specialize in **PHP, Laravel, React, and modern web technologies**, building solutions that solve real-world problems. While I can develop beautiful user interfaces, my true passion lies in designing **backend systems and APIs** that are reliable, performant, and maintainable.  
+### 👨‍💻 About Me
 
-With a curiosity for learning and improving, I constantly explore new frameworks, cloud services, and best practices to deliver software that makes an impact.  
+I am a passionate **Full Stack Web Developer** with **3+ years of professional experience**, specializing in **PHP and Laravel**. I build scalable, high-performance web applications, enterprise systems, and custom APIs.
 
-💡 In short: I build, I optimize, I innovate, and I love every line of code I write.
+- 🏢 Experienced in developing large-scale **Real Estate Management Systems** and **Document Management Solutions**.
+- 🛠️ Hands-on expertise in backend architecture, database optimization, and deployment (VPS, cPanel, WHM).
+- 🚀 Strong eye for clean code, system security, and intuitive user experiences.
 
 ---
 
 ### 🛠️ Tech Stack
 
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![cPanel/WHM](https://img.shields.io/badge/cPanel%2FWHM-FF6C2C?style=flat-square&logo=cpanel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+---
+
+### 🌐 Featured Projects & Industry Experience
+
+- **Real Estate Solutions:** Digital Residence ERP, [Smart Residence BD](https://smartresidencebd.com), [Dhaka Mawa City](https://dhakamawacitybd.com)
+- **Enterprise & Portals:** [SJCCI](https://sjcci.org) (Singapore Chamber of Commerce), [JAICT DMS](https://jaict.sjcci.org), [OGOS ISP Portal](https://ogos.tech)
+- **Media & News:** [Tech World BD](https://techworldbd.com), [Notun Asha BD](https://notunashabd.com)
+
+---
+
+### 📊 GitHub Activity
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asadullah00alimran&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullah00alimran&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+</div>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- Backend -->
-  <div style="flex: 1; min-width: 250px; padding: 18px; border-radius: 16px; background: linear-gradient(135deg,#232526,#414345); box-shadow: 0 6px 14px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-    <h3 align="center">⚙️ Backend</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </p>
-  </div>
-
-  <!-- Frontend -->
-  <div style="flex: 1; min-width: 250px; padding: 18px; border-radius: 16px; background: linear-gradient(135deg,#1f4037,#99f2c8); box-shadow: 0 6px 14px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-    <h3 align="center">🎨 Frontend</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </p>
-  </div>
-
-  <!-- Tools -->
-  <div style="flex: 1; min-width: 250px; padding: 18px; border-radius: 16px; background: linear-gradient(135deg,#28313B,#485563); box-shadow: 0 6px 14px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-    <h3 align="center">🛠️ Tools & Tech</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </p>
-  </div>
-
-  </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=asadullah00alimran&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=asadullah00alimran&show_icons=true&theme=radical&hide_border=true" width="32%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullah00alimran&layout=compact&theme=radical&hide_border=true" width="32%" />
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=asadullah00alimran&theme=radical&hide_border=true" width="32%" />
-</div>
-
-
----
-
-### 💼 What I Do
-
-- 🌐 **Full-Stack Web Development**: Building complete web applications from database design to user interface  
-- 🔧 **API Development**: Creating RESTful APIs and integrating third-party services  
-- ⚡ **Performance Optimization**: Optimizing applications for speed and scalability  
-- 🎨 **UI/UX Implementation**: Translating designs into responsive, interactive interfaces  
-- 📱 **Modern Frontend**: Developing dynamic user interfaces with React and Next.js  
-
----
-
-### 📈 Current Focus
-
-- 🔭 Currently improving skills in **Datascience and Machine Learning using Python**
-- 🌱 Learning **TypeScript** and **Serverless Architectures**  
-- 👯 Open to collaborate on **Open Source Projects** and **Innovative Web Apps**  
-- 💬 Ask me about **PHP**, **React**, **Next.js**, and **Full-Stack Architecture**  
-
----
-
-### 📫 Let's Connect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/asadullah-al-imran00/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://aai-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="mailto:al.asadullah.imran@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
-<div align="center">
-  
-**Thanks for visiting my profile! 🚀**  
-*Feel free to explore my repositories and connect for collaboration.*  
-
-![Profile Views](https://komarev.com/ghpvc/?username=asadullah00alimran&color=blueviolet&style=flat-square&label=Profile+Views)
-
+  <p>💼 <b>Looking for a dedicated Laravel / Full-Stack developer for your next project?</b></p>
+  <a href="mailto:al.asadullah.imran@gmail.com"><b>Let's discuss your project 🚀</b></a>
 </div>
